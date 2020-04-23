@@ -28,6 +28,10 @@
     flex-direction: row;
 }
 
+#secondary-stories-container > a {
+    margin-right: 8px;
+}
+
 .secondary-story {
     margin-right: 1.5%;
 }
